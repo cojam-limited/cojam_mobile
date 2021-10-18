@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>639565448889-egpgmkh4tlnpuunt9soosm10kgc29g7r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.639565448889-egpgmkh4tlnpuunt9soosm10kgc29g7r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4Ppl_23JrpPOBIzf_WqVR3gFlSQ9Sx1U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>639565448889</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cojam.io</string>
+	<key>PROJECT_ID</key>
+	<string>cojam-mobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cojam-mobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:639565448889:ios:504b8607ecd610a82f7d68</string>
+</dict>
+</plist>
