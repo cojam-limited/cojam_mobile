@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cojam_mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/cojam_mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1243842077/cojam_mobile.@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1243842077/cojam_mobile.@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2135531488/cojam_mobile.@react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/2135531488/cojam_mobile.@react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1761576579/cojam_mobile.@react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1761576579/cojam_mobile.@react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cojam_mobile.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cojam_mobile.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1243842077/cojam_mobile.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1243842077/cojam_mobile.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1442563920/cojam_mobile.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/-1442563920/cojam_mobile.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2135531488/cojam_mobile.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/2135531488/cojam_mobile.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1761576579/cojam_mobile.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1761576579/cojam_mobile.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/425944565/cojam_mobile.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/425944565/cojam_mobile.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-345584823/cojam_mobile.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-345584823/cojam_mobile.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1946358032/cojam_mobile.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1946358032/cojam_mobile.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

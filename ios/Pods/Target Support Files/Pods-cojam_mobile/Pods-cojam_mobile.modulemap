@@ -1,0 +1,6 @@
+module Pods_cojam_mobile {
+  umbrella header "Pods-cojam_mobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
