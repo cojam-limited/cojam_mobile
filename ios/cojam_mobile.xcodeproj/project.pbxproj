@@ -533,7 +533,7 @@
 				CODE_SIGN_ENTITLEMENTS = cojam_mobile/cojam_mobile.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1.5;
+				CURRENT_PROJECT_VERSION = 1.8;
 				DEVELOPMENT_TEAM = WCK4X7FHHF;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = cojam_mobile/Info.plist;
@@ -566,7 +566,7 @@
 				CODE_SIGN_ENTITLEMENTS = cojam_mobile/cojam_mobile.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1.5;
+				CURRENT_PROJECT_VERSION = 1.8;
 				DEVELOPMENT_TEAM = WCK4X7FHHF;
 				INFOPLIST_FILE = cojam_mobile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
