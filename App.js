@@ -11,7 +11,7 @@ import CookieManager from '@react-native-community/cookies';
 //import IconRight from "./components/IconRight";
 
 const PushNotification = require("react-native-push-notification");
-const domain = "http://dev.cojam.io";
+const domain = "https://www.cojam.io";
 //const domain = "http://localhost:8090";
 const domain_home = "/user/home";
 let pushID = 0;
